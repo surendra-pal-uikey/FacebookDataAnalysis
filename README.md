@@ -8,3 +8,4 @@ You need to put the URL of the post for that you want to do the sentiment analys
   3. json-simple-1.1.jar.
   4. regex.jar.
   5. stanford-english-corenlp-2016-10-31-models.jar.
+# Stablish Hadoop frame work as well.
